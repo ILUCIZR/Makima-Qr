@@ -20,7 +20,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║ *GitHub:* _github.com/LuciZR_
-║ *WhatsApp:* _https://wa.me/923184474176_
+║ *WhatsApp:* _https://wa.me/918293838182_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
 ╚════════════════════════╝
